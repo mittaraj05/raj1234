@@ -75,3 +75,7 @@ git commit
 ls -all /home/ec2-user/GIT/project1/.git/index.lock
 ls -all /home/ec2-user/.git/index.lock
 sudo su
+ls -la
+git read tree
+git read-tree
+sudo su
